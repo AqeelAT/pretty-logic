@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pretty-logic
-Version: 1.0.0
+Version: 1.0.1
 Summary: A pretty logic library
 Home-page: https://github.com/aqeelat/pretty-logic.git
 Author: Abdullah Alaqeel
@@ -8,7 +8,7 @@ Author-email: abdullah.t.aqeel@gmail.com
 License: MIT
 Description: # Pretty Logic
         
-        Are you tired of your multi-line`or` statements locking ugly? Would you rather use commas between your booleans? This is the package for you.
+        Are you tired of your multi-line `or` statements looking ugly? Would you rather use commas between your booleans? This is the package for you.
         
         It's very simple!
         
