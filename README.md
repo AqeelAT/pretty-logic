@@ -1,6 +1,6 @@
 # Pretty Logic
 
-Are you tired of your multi-line`or` statements locking ugly? Would you rather use commas between your booleans? This is the package for you.
+Are you tired of your multi-line `or` statements looking ugly? Would you rather use commas between your booleans? This is the package for you.
 
 It's very simple!
 
